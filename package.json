@@ -1,0 +1,23 @@
+{
+  "name": "std_lowdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lowdb": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoonion90/std_lowdb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoonion90/std_lowdb/issues"
+  },
+  "homepage": "https://github.com/hoonion90/std_lowdb#readme"
+}
