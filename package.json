@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/hoonion90/std_lowdb/issues"
   },
-  "homepage": "https://github.com/hoonion90/std_lowdb#readme"
+  "homepage": "https://github.com/hoonion90/std_lowdb#readme",
+  "type": "module"
 }
